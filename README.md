@@ -41,3 +41,5 @@ Model -> SamplerCustom
 ## Find this useful and want to support ?
 
   [Buy me a beer!](https://donate.stripe.com/cNi9ALaASf65clXahPcV201)
+  
+<img width="1920" height="1088" alt="ComfyUI_00716_" src="https://github.com/user-attachments/assets/bb2fc530-8a90-4180-96fb-adf6c48f5b09" />
